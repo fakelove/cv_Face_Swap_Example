@@ -1,0 +1,28 @@
+<Panel>
+	<Mask_Size_X>0.842</Mask_Size_X>
+	<Mask_Size_Y>1</Mask_Size_Y>
+	<Mask_Offset_X>0</Mask_Offset_X>
+	<Mask_Offset_Y>0</Mask_Offset_Y>
+	<Box_Size_X>0.11</Box_Size_X>
+	<Box_Size_Y>0</Box_Size_Y>
+	<Left_Screen_Y_Top>0.55</Left_Screen_Y_Top>
+	<Left_Screen_Y_Bottom>1.005</Left_Screen_Y_Bottom>
+	<Left_Screen_X_Left>0.775</Left_Screen_X_Left>
+	<Left_Screen_X_Right>0.325</Left_Screen_X_Right>
+	<Right_Screen_Y_Top>0.1</Right_Screen_Y_Top>
+	<Right_Screen_Y_Bottom>0.4875</Right_Screen_Y_Bottom>
+	<Right_Screen_X_Left>0.75</Right_Screen_X_Left>
+	<Right_Screen_X_Right>0.34</Right_Screen_X_Right>
+	<CV_Nudge_X>95</CV_Nudge_X>
+	<Cv_Nudge_Y>-10</Cv_Nudge_Y>
+	<Portrait_Cam>1</Portrait_Cam>
+	<Flop_Camera>1</Flop_Camera>
+	<Wide_Draw>1</Wide_Draw>
+	<Trans_X>124</Trans_X>
+	<Trans_Y>-309</Trans_Y>
+<Panel/>
+	<Post_CV_offset_X>0</Post_CV_offset_X>
+	<Post_CV_offset_Y>0</Post_CV_offset_Y>
+<Save_Images>1</Save_Images>
+<Face_Opacity>235</Face_Opacity>
+</Panel>
